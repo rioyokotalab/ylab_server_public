@@ -1,8 +1,8 @@
 ## TOC
-- [Login](https://github.com/rioyokotalab/ylab_server_public/How-to-use-hinadori-cluster#login)
-- [Batch job](https://github.com/rioyokotalab/ylab_server_public/How-to-use-hinadori-cluster#batch-job)
-- [Interactive job](https://github.com/rioyokotalab/ylab_server_public/How-to-use-hinadori-cluster#interactive-job)
-- [Changes from ex-lab cluster](https://github.com/rioyokotalab/ylab_server_public/How-to-use-hinadori-cluster#changes-from-ex-lab-cluster)
+- [Login](https://github.com/rioyokotalab/ylab_server_public#login)
+- [Batch job](https://github.com/rioyokotalab/ylab_server_public#batch-job)
+- [Interactive job](https://github.com/rioyokotalab/ylab_server_public#interactive-job)
+- [Changes from ex-lab cluster](https://github.com/rioyokotalab/ylab_server_public#changes-from-previous-lab-cluster)
 
 ## Login
 - If you don't have account on Jumpcloud, please ask the server admins to create one for you
